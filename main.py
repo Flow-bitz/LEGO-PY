@@ -50,3 +50,28 @@ print(info)
 
 level = 'jsss\b one'
 print(level)
+
+# Optional Arguments
+text = "apple apple apple"
+
+print(text.replace("apple", "orange", 1))
+
+
+# Python Arithmetic Operators
+
+# Addition = +
+# Subtraction = - 
+# Multiplication = *
+# Division = /
+# Floor Division = //
+# Remainder/Modulus = %
+# Power/Exponent = **
+
+
+# IMPORTANT MATHS FUNCTIONS
+
+# math.sqrt() =	Square root
+# math.pow()	= Power
+# math.ceil()	= Round upward
+# math.floor()	= Round downward
+# math.factorial() =	Factorial
